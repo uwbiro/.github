@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-This is the GitHub for UW Bothell Institutional Research. For details on how we will be using this, check out the Wiki!
+This is the GitHub for UW Bothell Institutional Research. For details on how we will be using this, check out the Wiki in the .github repo!
 
 
 
